@@ -1,0 +1,9 @@
+Aymammet Annamyradow10:10 PM
+1. Virtuale env owren
+2. Virtual env act et owren
+3. Current projecti virt env bilen et
+4. Githuba push et.
+5. github pages activate et bize slackden link iber
+
+greakstack
+creat a website like youtube using html css js
